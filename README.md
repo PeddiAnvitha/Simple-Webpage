@@ -1,4 +1,4 @@
-# HTML/CSS
+# Simple-Webpage
 *Create a simple webpage with a
 heading, paragraph, and image using
 HTML and CSS.
